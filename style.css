@@ -343,10 +343,10 @@ footer form .error{
         display: block;
     }
     .sec2 .box1:nth-child(2){
-        margin: 0px;
+        margin-left: 0px;
     }
     .sec2 .box1:nth-child(4){
-        margin: 0px;
+        margin-left: 0px;
     }
 }
 
