@@ -342,5 +342,11 @@ footer form .error{
     footer form{
         display: block;
     }
+    .sec2 .box1:nth-child(2){
+        margin: 0;
+    }
+    .sec2 .box1:nth-child(4){
+        margin: 0;
+    }
 }
 
